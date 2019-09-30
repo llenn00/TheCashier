@@ -1,0 +1,15 @@
+D:\Folder  Kuliah\PEMROGRAMAN\TheCashier\TheCashier\TheCashier\bin\Debug\TheCashier.exe.config
+D:\Folder  Kuliah\PEMROGRAMAN\TheCashier\TheCashier\TheCashier\bin\Debug\TheCashier.exe
+D:\Folder  Kuliah\PEMROGRAMAN\TheCashier\TheCashier\TheCashier\bin\Debug\TheCashier.pdb
+D:\Folder  Kuliah\PEMROGRAMAN\TheCashier\TheCashier\TheCashier\obj\Debug\TheCashier.csprojAssemblyReference.cache
+D:\Folder  Kuliah\PEMROGRAMAN\TheCashier\TheCashier\TheCashier\obj\Debug\MainWindow.g.cs
+D:\Folder  Kuliah\PEMROGRAMAN\TheCashier\TheCashier\TheCashier\obj\Debug\App.g.cs
+D:\Folder  Kuliah\PEMROGRAMAN\TheCashier\TheCashier\TheCashier\obj\Debug\TheCashier_MarkupCompile.cache
+D:\Folder  Kuliah\PEMROGRAMAN\TheCashier\TheCashier\TheCashier\obj\Debug\TheCashier_MarkupCompile.lref
+D:\Folder  Kuliah\PEMROGRAMAN\TheCashier\TheCashier\TheCashier\obj\Debug\MainWindow.baml
+D:\Folder  Kuliah\PEMROGRAMAN\TheCashier\TheCashier\TheCashier\obj\Debug\TheCashier.g.resources
+D:\Folder  Kuliah\PEMROGRAMAN\TheCashier\TheCashier\TheCashier\obj\Debug\TheCashier.Properties.Resources.resources
+D:\Folder  Kuliah\PEMROGRAMAN\TheCashier\TheCashier\TheCashier\obj\Debug\TheCashier.csproj.GenerateResource.cache
+D:\Folder  Kuliah\PEMROGRAMAN\TheCashier\TheCashier\TheCashier\obj\Debug\TheCashier.csproj.CoreCompileInputs.cache
+D:\Folder  Kuliah\PEMROGRAMAN\TheCashier\TheCashier\TheCashier\obj\Debug\TheCashier.exe
+D:\Folder  Kuliah\PEMROGRAMAN\TheCashier\TheCashier\TheCashier\obj\Debug\TheCashier.pdb
